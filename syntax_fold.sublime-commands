@@ -1,32 +1,27 @@
 [
   // Package commands
-  { "caption": "SyntaxFold: Show Panel",
+  { "caption": "FoldTheBraces: Show Panel",
     "command": "fold_panel"
   },
 
-  { "caption": "SyntaxFold: Fold All",
-    "command": "syntaxfold_fold_all"
+  { "caption": "FoldTheBraces: Fold All",
+    "command": "foldthebraces_fold_all"
   },
-  { "caption": "SyntaxFold: Unfold All",
-    "command": "syntaxfold_unfold_all"
+  { "caption": "FoldTheBraces: Unfold All",
+    "command": "foldthebraces_unfold_all"
   },
-  { "caption": "SyntaxFold: Toggle Fold Current",
-    "command": "syntaxfold_toggle_fold_current"
+  { "caption": "FoldTheBraces: Toggle Fold Current",
+    "command": "foldthebraces_toggle_fold_current"
   },
 
   // Configuration files
-  { "caption": "SyntaxFold: Open README",
+  { "caption": "FoldTheBraces: Open README",
     "command": "open_file",
-    "args": {"file": "${packages}/SyntaxFold/README.md"}
+    "args": {"file": "${packages}/FoldTheBraces/README.md"}
   },
 
-  { "caption": "Preferences: SyntaxFold Settings - User",
+  { "caption": "Preferences: FoldTheBraces Keybindings - Default",
     "command": "open_file",
-    "args": {"file": "${packages}/User/syntax_fold.sublime-settings"}
-  },
-
-  { "caption": "Preferences: SyntaxFold Keybindings - Default",
-    "command": "open_file",
-    "args": {"file": "${packages}/SyntaxFold/Default ($platform).sublime-keymap"}
+    "args": {"file": "${packages}/FoldTheBraces/Default ($platform).sublime-keymap"}
   }
 ]
