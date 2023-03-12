@@ -10,7 +10,7 @@ Some haml files can contain a lot of curly braces and sometimes the code within 
 ## Installation
 Clone this repository to your Sublime Text packages directory. It is usually in a path similar to this:
 -   **Windows**:  `%APPDATA%\Sublime Text 3/Packages`
--   **OS X**:  `~/Library/Application Support/Sublime Text  3/Packages`
+-   **OS X**:  `~/Library/Application Support/Sublime Text 3/Packages`
 -   **Linux**:  `~/.config/sublime-text-3/Packages`
 
 
