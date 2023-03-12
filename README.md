@@ -1,6 +1,6 @@
 
 # FoldTheBraces - Sublime Text Plugin
-<i>This plugin is forked from the following repo: https://github.com/jamalsenouci/sublimetext-syntaxfold
+<i>This plugin is forked from the following repo:</i> https://github.com/jamalsenouci/sublimetext-syntaxfold
 
 A plugin for Sublime Text 3 that folds/collapses or unfolds/expands code blocks contained within curly braces.
 
@@ -16,6 +16,7 @@ Clone this repository to your Sublime Text packages directory. It is usually in 
 
 ## Usage
 - Use [keybindings](#key-bindings) to fold/unfold your code.
+
 **OR** 
 - Invoke fold commands through the command panel.
 
