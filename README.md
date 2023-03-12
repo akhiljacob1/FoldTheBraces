@@ -2,10 +2,12 @@
 # FoldTheBraces - Sublime Text Plugin
 <i>This plugin is forked from the following repo:</i> https://github.com/jamalsenouci/sublimetext-syntaxfold
 
-A plugin for Sublime Text 3 that folds/collapses or unfolds/expands code blocks contained within curly braces.
+A plugin for Sublime Text 3 that folds/collapses or unfolds/expands code blocks contained within curly braces in haml files.
 
 ## Background
 Some haml files can contain a lot of curly braces and sometimes the code within these braces can be quite long. This can make it difficult to navigate the code. This plugin was created to support the folding of code within all the curly braces in a haml file.
+
+<i>Note: This plugin only supports haml files for now.</i>
 
 ## Installation
 Clone this repository to your Sublime Text packages directory. It is usually in a path similar to this:
